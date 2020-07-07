@@ -1,6 +1,6 @@
 # Mastering Python Core
 
-** Basic Topics **
+**Basic Topics**
 1. Variables
 2. Array
 3. List
