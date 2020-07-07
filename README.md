@@ -1,9 +1,9 @@
 # Mastering Python Core
 
 1. Basic
-  * 1.1.1. Numbers
-  * 1.1.2. Strings
-  * 1.1.3. Lists
+    * 1.1.1. Numbers
+    * 1.1.2. Strings
+    * 1.1.3. Lists
 2. More Control Flow Tools
   - 2.1. if Statements
   - 2.2. for Statements
