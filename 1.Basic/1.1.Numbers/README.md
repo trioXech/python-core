@@ -3,19 +3,23 @@
 The interpreter acts as a simple calculator: you can type an expression at it and it will write the value. Expression syntax is straightforward: the operators +, -, * and / work just like in most other languages (for example, Pascal or C); parentheses (()) can be used for grouping. For example:
 ```python
 print(2 + 2)
-output: 4
+
+Output: 4
 ```
 ```python
 print(50 - 5*6)
-output: 20
+
+Output: 20
 ```
 ```python
 print((50 - 5*6) / 4)
-output: 5.0
+
+Output: 5.0
 ```
 ```python
 print(8 / 5)  # division always returns a floating point number
-output: 1.6
+
+Output: 1.6
 ```
 
 The integer numbers (e.g. 2, 4, 20) have type int, the ones with a fractional part (e.g. 5.0, 1.6) have type float. We will see more about numeric types later in the tutorial.
@@ -25,30 +29,36 @@ The integer numbers (e.g. 2, 4, 20) have type int, the ones with a fractional pa
 Division (**/**) always returns a float. To do floor division and get an integer result (discarding any fractional result) you can use the **//** operator; to calculate the remainder you can use %:
 ```python
 print(17 / 3)  # classic division returns a float
-output: 5.666666666666667
+
+Output: 5.666666666666667
 ```
 ```python
 print(17 // 3)  # floor division discards the fractional part
-output: 5
+
+Output: 5
 ```
 ```python
 print(17 % 3)  # the % operator returns the remainder of the division
-output: 2
+
+Output: 2
 ```
 ```python
 print(5 * 3 + 2)  # result * divisor + remainder
-output: 17
+
+Output: 17
 ```
 
 
 With Python, it is possible to use the ** operator to calculate powers:
 ```python
 print(5 ** 2)  # 5 squared
-output: 25
+
+Output: 25
 ```
 ```python
 print(2 ** 7)  # 2 to the power of 7
-output: 128
+
+Output: 128
 ```
 
 
@@ -58,7 +68,7 @@ width = 20
 height = 5 * 9
 print(width * height)
 
-output: 900
+Output: 900
 ```
 
 
