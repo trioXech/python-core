@@ -2,8 +2,8 @@
 
 1. [Basic](https://github.com/trioXech/python-core/blob/master/1.Basic/1.Basic.md)
     - 1.1. [Numbers](https://github.com/trioXech/python-core/blob/master/1.Basic/1.1.Numbers/1.1.Numbers.md)
-    - 1.2. [Strings] (https://github.com/trioXech/python-core/blob/master/1.Basic/1.2.Strings.md)
-    - 1.3. [Lists] (https://github.com/trioXech/python-core/blob/master/1.Basic/1.3.Lists.md)
+    - 1.2. [Strings](https://github.com/trioXech/python-core/blob/master/1.Basic/1.2.Strings.md)
+    - 1.3. [Lists](https://github.com/trioXech/python-core/blob/master/1.Basic/1.3.Lists.md)
 2. [More Control Flow Tools](https://github.com/trioXech/python-core/blob/master/10.VirtualEnvironmentsAndPackages/10.VirtualEnvironmentsAndPackages.md)
     - 2.1. if Statements
     - 2.2. for Statements
