@@ -6,12 +6,12 @@
     - 1.2. [Strings](https://github.com/trioXech/python-core/blob/master/1.Basic/1.2.Strings)
     - 1.3. [Lists](https://github.com/trioXech/python-core/blob/master/1.Basic/1.3.Lists)
 2. [More Control Flow Tools](https://github.com/trioXech/python-core/blob/master/10.VirtualEnvironmentsAndPackages)
-    - 2.1. if Statements
-    - 2.2. for Statements
-    - 2.3. The range() Function
-    - 2.4. break and continue Statements, and else Clauses on Loops
-    - 2.5. pass Statements
-    - 2.6. Defining Functions
+    - 2.1. [if Statements](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.1.IfStatements)
+    - 2.2. [for Statements](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.2.ForStatements)
+    - 2.3. [The range() Function](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.3.TheRangeFunction)
+    - 2.4. [break and continue Statements, and else Clauses on Loops](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.4.BreakAndContinueStatementsAndElseClausesOnLoops)
+    - 2.5. [pass Statements](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.5.PassStatements)
+    - 2.6. [Defining Functions](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.6.DefiningFunctions)
     - 2.7. More on Defining Functions
       - 2.7.1. Default Argument Values
       - 2.7.2. Keyword Arguments
@@ -129,7 +129,7 @@
 
 * First after cloning - create new folder with your username in **topics** or **subtopics** **Problems >> Solutions** folder, example - mehedi-durjoi
 * Inside the folder try to create a TASK.MD and try to note down something related to your code.
-* In the same folder create problemName.py file and start writing code. 
+* In the same folder create problemName.py file and start writing code.
 
 ```
   Topics
