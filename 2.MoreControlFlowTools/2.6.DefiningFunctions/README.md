@@ -65,3 +65,7 @@ This example, as usual, demonstrates some new Python features:
 * The **return** statement returns with a value from a **function**. **return** without an expression argument returns **None**. _Falling off the end of a function also returns None_.
 
 * The statement **result.append(a)** calls a method of the list object result. _A method is a function that ‘belongs’ to an object and is named obj.methodname, where obj is some object (this may be an expression), and methodname is the name of a method that is defined by the object’s type_. Different types define different methods. Methods of different types may have the same name without causing ambiguity. (It is possible to define your own object types and methods, using classes, see Classes) The method **append()** shown in the example is defined for list objects; it adds a new element at the end of the list. In this example it is equivalent to result = result + [a], but more efficient.
+
+# Solve Some Problems
+
+1. [Print Function](https://www.hackerrank.com/challenges/python-print/problem)

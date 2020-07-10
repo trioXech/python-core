@@ -92,3 +92,8 @@ Output: 14.0
 
 
 **In addition to int and float, Python supports other types of numbers, such as Decimal and Fraction. Python also has built-in support for complex numbers, and uses the j or J suffix to indicate the imaginary part (e.g. 3+5j).**
+
+## Solve Some Problems  
+
+1. [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
+2. [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)

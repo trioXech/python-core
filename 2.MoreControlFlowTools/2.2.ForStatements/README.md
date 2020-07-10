@@ -27,3 +27,7 @@ for user, status in users.items():
     if status == 'active':
         active_users[user] = status
 ```
+
+# Solve Some Problems
+
+1. [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
