@@ -1,4 +1,4 @@
-# 4.7.2. Keyword Arguments
+# 2.7.2. Keyword Arguments
 
 Functions can also be called using **keyword arguments** of the form _kwarg=value_. For instance, the following function:
 ```python
