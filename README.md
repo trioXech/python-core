@@ -4,7 +4,7 @@
 1. [Basic](https://github.com/trioXech/python-core/blob/master/1.Basic)
     - 1.1. [Numbers](https://github.com/trioXech/python-core/blob/master/1.Basic/1.1.Numbers) - [Problem - 2](https://github.com/trioXech/python-core/tree/master/1.Basic/1.1.Numbers#solve-some-problems)
     - 1.2. [Strings](https://github.com/trioXech/python-core/blob/master/1.Basic/1.2.Strings)
-    - 1.3. [Lists](https://github.com/trioXech/python-core/blob/master/1.Basic/1.3.Lists)
+    - 1.3. [Lists](https://github.com/trioXech/python-core/blob/master/1.Basic/1.3.Lists) - [Problems - 5](https://github.com/trioXech/python-core/blob/master/1.Basic/1.3.Lists/README.md#solve-some-problems)
 2. [More Control Flow Tools](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools)
     - 2.1. [if Statements](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.1.IfStatements) - [Problem - 1](https://github.com/trioXech/python-core/tree/master/2.MoreControlFlowTools/2.1.IfStatements#solve-some-problems)
     - 2.2. [for Statements](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.2.ForStatements) - [Problem - 1](https://github.com/trioXech/python-core/tree/master/2.MoreControlFlowTools/2.2.ForStatements#solve-some-problems)
