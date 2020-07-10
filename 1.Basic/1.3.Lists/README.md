@@ -118,3 +118,11 @@ print(x[0][1])
 
 Output: b
 ```
+
+## Solve Some Problems
+
+1. [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
+2. [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+3. [NestedLists](https://www.hackerrank.com/challenges/nested-list/problem)
+4. [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
+5. [List](https://www.hackerrank.com/challenges/python-lists/problem)
