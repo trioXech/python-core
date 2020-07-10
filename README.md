@@ -12,21 +12,21 @@
     - 2.4. [break and continue Statements, and else Clauses on Loops](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.4.BreakAndContinueStatementsAndElseClausesOnLoops)
     - 2.5. [pass Statements](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.5.PassStatements)
     - 2.6. [Defining Functions](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.6.DefiningFunctions) - [Problem - 1](https://github.com/trioXech/python-core/tree/master/2.MoreControlFlowTools/2.6.DefiningFunctions#solve-some-problems)
-    - 2.7. More on Defining Functions
-      - 2.7.1. Default Argument Values
-      - 2.7.2. Keyword Arguments
-      - 2.7.3. Special parameters
-        - 2.7.3.1. Positional-or-Keyword Arguments
-        - 2.7.3.2. Positional-Only Parameters
-        - 2.7.3.3. Keyword-Only Arguments
-        - 2.7.3.4. Function Examples
-        - 2.7.3.5. Recap
-      - 2.7.4. Arbitrary Argument Lists
-      - 2.7.5. Unpacking Argument Lists
-      - 2.7.6. Lambda Expressions
-      - 2.7.7. Documentation Strings
-      - 2.7.8. Function Annotations
-    - 2.8. Intermezzo: Coding Style
+    - 2.7. [More on Defining Functions](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools)
+      - 2.7.1. [Default Argument Values](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.1.DefaultArgumentValues)
+      - 2.7.2. [Keyword Arguments](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.2.KeywordArguments)
+      - 2.7.3. [Special parameters](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.3.SpecialParameters)
+        - 2.7.3.1. [Positional-or-Keyword Arguments](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.3.SpecialParameters/2.7.3.1.PositionalOrKeywordArguments)
+        - 2.7.3.2. [Positional-Only Parameters](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.3.SpecialParameters/2.7.3.2.PositionalOnlyParameters)
+        - 2.7.3.3. [Keyword-Only Arguments](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.3.SpecialParameters/2.7.3.3.KeywordOnlyArguments)
+        - 2.7.3.4. [Function Examples](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.3.SpecialParameters/2.7.3.4.FunctionExamples)
+        - 2.7.3.5. [Recap](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.3.SpecialParameters/2.7.3.5.Recap)
+      - 2.7.4. [Arbitrary Argument Lists](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.4.ArbitraryArgumentLists)
+      - 2.7.5. [Unpacking Argument Lists](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.5.UnpackingArgumentLists)
+      - 2.7.6. [Lambda Expressions](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.6.LambdaExpressions)
+      - 2.7.7. [Documentation Strings](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.7.DocumentationStrings)
+      - 2.7.8. [Function Annotations](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.8.FunctionAnnotations)
+    - 2.8. [Intermezzo: Coding Style](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.8.IntermezzoCondingStyle)
 3. Data Structures
     - 3.1. More on Lists
       - 3.1.1. Using Lists as Stacks
