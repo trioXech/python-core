@@ -11,7 +11,7 @@
     - 2.3. [The range() Function](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.3.TheRangeFunction)
     - 2.4. [break and continue Statements, and else Clauses on Loops](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.4.BreakAndContinueStatementsAndElseClausesOnLoops)
     - 2.5. [pass Statements](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.5.PassStatements)
-    - 2.6. [Defining Functions](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.6.DefiningFunctions) - [Problem - 1](https://github.com/trioXech/python-core/tree/master/2.MoreControlFlowTools/2.6.DefiningFunctions#solve-some-problems)
+    - 2.6. [Defining Functions](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.6.DefiningFunctions) - [Problem - 2](https://github.com/trioXech/python-core/tree/master/2.MoreControlFlowTools/2.6.DefiningFunctions#solve-some-problems)
     - 2.7. [More on Defining Functions](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools)
       - 2.7.1. [Default Argument Values](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.1.DefaultArgumentValues)
       - 2.7.2. [Keyword Arguments](https://github.com/trioXech/python-core/blob/master/2.MoreControlFlowTools/2.7.MoreOnDefiningFunctions/2.7.2.KeywordArguments)

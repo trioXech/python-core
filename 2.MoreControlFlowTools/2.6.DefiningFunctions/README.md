@@ -69,3 +69,4 @@ This example, as usual, demonstrates some new Python features:
 # Solve Some Problems
 
 1. [Print Function](https://www.hackerrank.com/challenges/python-print/problem)
+2. [Write A Function](https://www.hackerrank.com/challenges/write-a-function/problem)
